@@ -1,3 +1,0 @@
-class WTPipeline:
-    def __init__(self, **kwargs):
-        ...
