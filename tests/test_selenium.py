@@ -35,7 +35,7 @@ try:
     elem.click()
     sleep(3)
     elem = driver.switch_to.active_element
-    elem.send_keys('אבא')
+    elem.send_keys('xxx')
     sleep(3)
     elem.send_keys(Keys.RETURN)
     time.sleep(2)
