@@ -1,0 +1,1 @@
+DEFAULT_BROWSER_DRIVER_PATH = 'chromedriver'

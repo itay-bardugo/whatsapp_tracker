@@ -1,24 +1,15 @@
 from argparse import ArgumentParser
 
-from whatsapp_tracker.wt_pipelines.wt_main_pipeline import WTPipeline
-
-
-class WTMain:
-    def __init__(self, **kwargs):
-        self.kwargs = kwargs
-        self.wt_pipeline = WTPipeline(**self.kwargs)
-
-    def main(self):
-        print('HELLO!')
-
+from whatsapp_tracker.configs.default_vars_config import DEFAULT_BROWSER_DRIVER_PATH
+from whatsapp_tracker.mains.wt_main import WTMain
 
 if __name__ == '__main__':
     parser = ArgumentParser()
-    parser.add_argument('--chrome-path')
+    parser.add_argument('--browser-path', default=DEFAULT_BROWSER_DRIVER_PATH)
 
     args = parser.parse_args()
 
     wt_main = WTMain(
-        chrome_path=args.chrome_path
+        browser_path=args.browser_path
     )
     wt_main.main()
