@@ -1,6 +1,6 @@
 from abc import ABCMeta
 
-from whatsapp_tracker.data_structures.setups_data_structure import SetupSeleniumDataStructure
+from whatsapp_tracker.data_structures.setup_data_structures import SetupSeleniumDataStructure
 
 
 class BaseSeleniumKit(metaclass=ABCMeta):
