@@ -1,4 +1,4 @@
-from whatsapp_tracker.bases.samples.base_sample import BaseSample
+from whatsapp_tracker.bases.samples_bases.base_sample import BaseSample
 from whatsapp_tracker.mixins.selenium_check_elements_mixin import SeleniumCheckElementsMixin
 
 
