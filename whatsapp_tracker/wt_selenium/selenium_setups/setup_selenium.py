@@ -1,4 +1,4 @@
-from whatsapp_tracker.data_structures.setups_data_structure import SetupSeleniumDataStructure
+from whatsapp_tracker.data_structures.setup_data_structures import SetupSeleniumDataStructure
 from whatsapp_tracker.wt_selenium.selenium_setups.setup_chrome_driver import SetupChromeDriver
 
 
