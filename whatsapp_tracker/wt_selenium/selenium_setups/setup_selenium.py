@@ -7,7 +7,7 @@ class SetupSelenium:
         self.browser_path = browser_path
 
     def setup(self):
-        chrome_setup = SetupChromeDriver()
+        chrome_setup = SetupChromeDriver(browser_path=self.browser_path)
         chrome = chrome_setup.setup()
 
         return SetupSeleniumDataStructure(
