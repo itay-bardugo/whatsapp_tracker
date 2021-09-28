@@ -127,7 +127,7 @@ python whatsapp_tracker/wt_main.py --browser-path chromedriver --contact "contac
 |  browser-path | an absolute path for executable chromedriver | /Downloads/chromedrivers/chromedriver |
 |  contact  |  contact name for tracking  |  Anonymous |
 | save-path | where to store the results | /Users/itay/Desktop |
-| minutes   | for how long you want to tracking your contact, in minutes | 30 |
+| minutes   | for how long you want tracking your contact, in minutes | 30 |
 | resolution | represents the sampling resolution in seconds | 5 |
 
 
