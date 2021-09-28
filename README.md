@@ -101,7 +101,7 @@ To get a local copy up and running follow these simple steps.
 * [Google Chrome](https://www.google.com/chrome)
 * [Chromedriver](https://chromedriver.chromium.org/downloads) - as far as I know, it should be 
 as the same version of your GoogleChrome browser.
-  extract the zip and keep the path to the file, you will need to send it as an input to the software
+  extract the zip and keep the path of the file, you will need to send it as an input to the software
   
 ### Installation
 
