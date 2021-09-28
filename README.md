@@ -161,7 +161,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Itay Bardugo - [@twitter_handle](https://twitter.com/itaybardugo) - itaybardugo91@gmail.com
+Itay Bardugo - [@itaybardugo](https://twitter.com/itaybardugo) - itaybardugo91@gmail.com
 
 Project Link: [https://github.com/itay-bardugo/whatsapp_tracker](https://github.com/itay-bardugo/whatsapp_tracker)
 
