@@ -24,8 +24,8 @@
   <p align="center">
     have you ever wanted to know when your favourite contact was online on Whatsapp?
     now it is possible by using Whatsapp Tracker!
-    Whatsapp Tracker is a Selenium based automation, it extracts details of your contact
-    activity and stores it on your local machine for you to review it later! 
+    Whatsapp Tracker is a Selenium based automation, it extracts activity details of your contact
+    and stores it for you on your local machine for you to review it later! 
     <br />
     <a href="https://github.com/itay-bardugo/whatsapp_tracker/issues">Report Bug</a>
     ·
