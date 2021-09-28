@@ -117,7 +117,9 @@ as the same version of your GoogleChrome browser.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+```sh
 python whatsapp_tracker/wt_main.py --browser-path chromedriver --contact "contact name" --save-path /Users/itay/Downloads --minutes 2 --resolution 5
+```
 ### Arguments map
 |  arg   |  description |  value for example |
 |  ---   |  ----------- |  ----------------- |
