@@ -12,5 +12,4 @@ class SeleniumOptionMixin:
     @classmethod
     def add_user_data_dir_option(cls, options):
         cls._add_option(options=options, option='--user-data-dir', value=CHROME_DATA_PATH)
-        cls._add_option(options=options, option="disable-blink-features", value='AutomationControlled')
         return options
