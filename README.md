@@ -75,7 +75,7 @@ to your local machine as a csv file, so you can have a look once finished.
 below is a list of supported metrics.
 please open a feature request for any extra metrics suggestions
 
-###current metrics
+### current metrics
 
 **status** - what was the status of your contact
 
