@@ -12,4 +12,4 @@ class SampleSave(PathMixin):
 
     def save(self):
         self.samples.to_csv(path_or_buf=self.get_saving_path(self.path))
-        logging.info('saved to : %s' % (self.path,))
+        logging.info('saving to : %s' % (self.path,))
