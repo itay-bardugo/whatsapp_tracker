@@ -69,7 +69,7 @@
 [![Product Name Screen Shot][product-screenshot]]()
 
 WhatsappTracker is a selenium based automation.
-it makes it possible to tracking your contact's without your touch, it stores time series of metrics
+it makes it possible to track your contact's without your touch, it stores time series of metrics
 to your local machine as a csv file, so you can have a look once finished.
 
 below is a list of supported metrics.
